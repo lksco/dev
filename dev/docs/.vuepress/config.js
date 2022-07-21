@@ -1,6 +1,6 @@
 module.exports = {
     base: "/dev/",
-    title: "LKSCO - ScoreList",
+    title: "LKSCO - ScoreList (Dev)",
     description: "The Score Registration and Storage Solution (Documentation) for the Chinese Orchestra of TWGHs Li Ka Shing College",
     plugins: ["@vuepress/back-to-top", "@vuepress/medium-zoom"],
 

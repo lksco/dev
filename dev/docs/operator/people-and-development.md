@@ -46,6 +46,9 @@ Allowed:
 * Make a Copy (and modify it) for Educational or Organizational Use with appropriate attribution
 * Fork, modify, or redistribute this project with appropriate attribution
 
+## Attribution
+LKSCO SocreList was developed by the [TWGHs Li Ka Shing College Chinese Orchestra](https://lksco.github.io), released under [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
 ## External Links
 * [ScoreList Dev Folder](https://drive.google.com/drive/folders/1x9wOa3ts6RLCixqVR7FEHr3SGWd9rDQi?usp=sharing) (Development Version, Publicly Viewable)
 * [Documentation for External/Development Use](https://lksco.github.io/dev)

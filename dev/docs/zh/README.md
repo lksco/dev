@@ -2,7 +2,7 @@
 home: true
 homeComponent: CustomHome
 pageTheme: green
-heroText: LKSCO ScoreList
+heroText: LKSCO ScoreList (Dev)
 tagline: 樂譜登記管理系統（版本 1.0）
 actionText: 快速上手—身份:譜務（操作員）→
 actionLink: /zh/operator/

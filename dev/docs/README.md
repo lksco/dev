@@ -2,7 +2,7 @@
 home: true
 homeComponent: CustomHome
 pageTheme: blue
-heroText: LKSCO ScoreList
+heroText: LKSCO ScoreList (Dev)
 tagline: The Score Registration and Management Solution (Build 1.0)
 actionText: Get Started As A Score Manager (Operator) →
 actionLink: /operator/

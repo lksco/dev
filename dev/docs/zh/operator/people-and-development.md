@@ -46,6 +46,9 @@ LKSCO ScoreList 使用 [GNU General Public License v3.0 or later](https://www.gn
 * 建立副本（及更改）供團體或教學用途，且有適當標明原作
 * Fork、修改、或發行專案，且有適當標明原作
 
+## 創作者
+LKSCO SocreList 由 [東華三院李嘉誠中學中樂團](https://lksco.github.io) 以許可條款 [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html) 發佈。
+
 ## 外在連結
 * [ScoreList Dev Folder](https://drive.google.com/drive/folders/1x9wOa3ts6RLCixqVR7FEHr3SGWd9rDQi?usp=sharing)（開發版本；能公開檢視）
 * [外用／開發用說明文件](https://lksco.github.io/dev)
