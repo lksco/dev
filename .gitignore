@@ -3,3 +3,4 @@ node_modules
 cookie
 geckodriver.log
 ghostdriver.log
+dev/docs/.vuepress/dist/
